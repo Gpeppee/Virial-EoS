@@ -13,9 +13,9 @@ authors:
   - given-names: Giuseppe
     family-names: Rivieccio
     email: giuseppe.rivieccio@uv.es
-    affiliation: Universitat de Valencia
-    orcid: 'https://orcid.org/0009-0009-9456-6382'
+    affiliation: "Universitat de Valencia"
+    orcid: "https://orcid.org/0009-0009-9456-6382"
 title: "Virial-EoS"
 version: 1.0
-date-released: 2025
+date-released: 2025-01-22
 url: "https://github.com/Gpeppee/Virial-EoS.git"

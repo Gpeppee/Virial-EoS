@@ -24,6 +24,8 @@ To organize the data in a more memory efficient way (still to improve).
 ## Output
 The output is divided in different files depending from the temperature. Every file is built in hierarchical format to be read by python as a dictionary so all the quantities will be clearly stated. 
 
+All the files will be printed in a folder named 'data', so either you change this in the constants.py file or you create an empty folder named 'data'.
+
 ## Refernces
 To know more about the approach and the formalism go to Rivieccio et al. 2025 (arXiv:2501.16795). 
 
